@@ -1,0 +1,38 @@
+body {
+    background-color:#d8c99b;
+}
+
+.navbar {
+    background-color: #273E47;
+}
+
+.knapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh; 
+}
+
+.knapper > button {
+    font-size: 40px;
+    color:antiquewhite;
+    font-family: Impact;
+    border-radius: 25px;
+    background-color:#a4243b;
+    width: 450px;
+    height: 20vh;
+}
+
+.leaderboardsheet {
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color: #a4243b;
+    color:antiquewhite;
+    font-family: Impact;
+    border-radius: 25px;
+    width: 450px;
+    height: 550px;
+}
